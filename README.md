@@ -2,6 +2,10 @@
 
 This project is designed to control a camera mounted on two servos (X-axis and Y-axis) and a buzzer using Arduino and Python with OpenCV for face detection. The system adjusts the servo angles to center the detected face and activates the buzzer when a face is detected.
 
+
+https://github.com/user-attachments/assets/361c5faa-908d-4851-a457-a1ef1967ecb2
+
+
 ## Features
 - Real-time face detection using Python and OpenCV.
 - Automatic adjustment of servo angles to track the detected face.
